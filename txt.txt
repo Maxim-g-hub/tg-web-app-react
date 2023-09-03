@@ -1,0 +1,2 @@
+npx create-react-app . // инициализируем реакт приложение
+npm start
